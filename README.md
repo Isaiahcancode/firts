@@ -1,6 +1,3 @@
-# new
-this is the practice git hub
-# this-might-work
-# this-might-work
 # firts
-# firts
+this is my git 
+i will try to create this one right
